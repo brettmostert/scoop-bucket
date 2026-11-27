@@ -1,5 +1,5 @@
 {
-    "version": "0.96.0",
+    "version": "0.97.0",
     "description": "Agent Command: use your hosts' agent sessions from any terminal. On Windows acmd connects to hosts, and runs no sessions of its own.",
     "homepage": "https://github.com/brettmostert/agent-command",
     "license": "MIT",
@@ -10,12 +10,12 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/brettmostert/homebrew-tap/releases/download/agent-command-v0.96.0/acmd-0.96.0-windows-amd64.zip",
-            "hash": "8cfcdc299e80029073c2e9c22e54f83ca22fa71d1751b9bd7be8f77e6851efc0"
+            "url": "https://github.com/brettmostert/homebrew-tap/releases/download/agent-command-v0.97.0/acmd-0.97.0-windows-amd64.zip",
+            "hash": "3c0943d3e2c350bae6a7019932144004e9a57164e28886b3796e210aa32ce0af"
         },
         "arm64": {
-            "url": "https://github.com/brettmostert/homebrew-tap/releases/download/agent-command-v0.96.0/acmd-0.96.0-windows-arm64.zip",
-            "hash": "66c599796ada240e3c14ed2bcafbcaea6ab3bcf4eda4ef322415a547ef4b02b6"
+            "url": "https://github.com/brettmostert/homebrew-tap/releases/download/agent-command-v0.97.0/acmd-0.97.0-windows-arm64.zip",
+            "hash": "51c73aeae1d5961236c0db4441901e00bf5eead2a637e2d80e0742b78f67f4e3"
         }
     },
     "bin": "acmd.exe",
